@@ -20,7 +20,3 @@ Aplicativo para cálculo de Índice de Massa Corporal (IMC) desenvolvido em Flut
 | ![Tela 1](assets/screen1.png) | ![Tela 2](assets/screen2.png) | ![Tela 3 ](assets/screen3.png) |
 
 ## ▶ Como Executar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/AvaliacaoIMC.git
-   cd AvaliacaoIMC
