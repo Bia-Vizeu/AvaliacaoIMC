@@ -18,4 +18,9 @@ Aplicativo para cálculo de Índice de Massa Corporal (IMC) desenvolvido em Flut
 ![Tela 1](1.png)
 ![Tela 2](2.png)
 
-## ▶ Como Executar
+##  Como Executar
+1° Abra o Firebase Studio
+2° Selecione a opção Flutter
+3° Crie uma pasta com o nome do projeto
+4° Procure na pasta _lib_ o arquivo *main.dart* 
+5° Adicione a sua programação e observe o resultado na tela Web ou Android
